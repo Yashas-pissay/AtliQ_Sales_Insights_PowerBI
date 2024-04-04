@@ -4,6 +4,8 @@ Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
 
 The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. 
 
+Live DashBoard Link - https://app.powerbi.com/view?r=eyJrIjoiZDI1ZDAxMjYtNTZjYS00MDgwLWE1M2QtMmIyYjBmMzJlYTIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Novypro Link - https://www.novypro.com/project/atliq-sales-insights--power-bi-1
 
 **Problem statement:**
 
@@ -61,7 +63,7 @@ and success criteria  of our project.
 4) Exploratory Data Analysis(EDA)
 5) Data Visualization.
 
-# Concluion 💡
+**Concluion**
 - Sales are declining due to COVID-19 Situation
 - Total Revenue = ₹984.87M
 - Total Sales Quantity = 2429K
