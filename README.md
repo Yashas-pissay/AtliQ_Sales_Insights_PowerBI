@@ -31,11 +31,11 @@ and success criteria  of our project.
 7) Data Modelling and Visualization.
 
 
-*Major Changes/ Customizations Made:*
+**Major Changes/ Customizations Made:**
 1) Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
 2) Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
 
-*Insights:*
+**Insights:**
 1) In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
 2) In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but if you look at the profit margin Delhi NCR is generating only 2.3% profit margin.
 3) If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.
@@ -46,7 +46,7 @@ and success criteria  of our project.
 8) Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in April 2020.
 
    
-*Key Learnings:*
+**Key Learnings:**
 1) Learned about what real business data sets look like.
 2) Learned about how to write some major analysis queries in MySQL.
 3) how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
@@ -54,12 +54,22 @@ and success criteria  of our project.
 5) Learned about some major analytical visuals and reports.
 
 
-
-*SKILLS*
+**SKILLS**
 1) SQL
 2) PowerBI
 3) Power Query
 4) Exploratory Data Analysis(EDA)
 5) Data Visualization.
+
+# Concluion 💡
+- Sales are declining due to COVID-19 Situation
+- Total Revenue = ₹984.87M
+- Total Sales Quantity = 2429K
+- Total Profit Margin = ₹2.06M
+- Revenue of Delhi is higher with 54.7% But Profit Margin % is 0.6% and Contribution in Profit is 22.1% in 2020 and Sales Quantity of Delhi is also highest with 989K
+- Revenue of Mumbai is 14.2% But Contribution in Profit % is Highest with 23.9% Which makes it a Biggest Market in 2020
+- Bhubaneshwar is also generating Highest Profit Margin % with 10.5% But in Total Profit Contribution is not performing well 0.8% in 2020
+- Electricalsara Store tops the highest customer by revenue with ₹413.33M
+- In 2020 Revenue is less than 2019 throughout the year
 
 
