@@ -17,15 +17,15 @@
 
 **Steps Followed in this project:**
 
-1)Learned about AIMS grid for project planning.
+1) Learned about AIMS grid for project planning.
 <img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
-2)Used MySQL for retrieving the data from the database into Power BI.
-3)Data Cleaning in power query.
-4)Performed ETL process (Extract Transform and Load)
-5)Created measure for needs and used them for creating visuals in PowerBi.
-6)In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-7)Data Validation
-8)Data Modelling and Visualization.
+2) Used MySQL for retrieving the data from the database into Power BI.
+3) Data Cleaning in power query.
+4) Performed ETL process (Extract Transform and Load)
+5) Created measure for needs and used them for creating visuals in PowerBi.
+6) In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
+7) Data Validation
+8) Data Modelling and Visualization.
 
 
 *Major Changes/ Customizations Made:*
