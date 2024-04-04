@@ -1,31 +1,34 @@
 # AtliQ_Sales_Insights_PowerBI
 
-# Sales-Insights-of-Atlique-hardware
+Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
 
---> Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
-
---> The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. 
+The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. 
 
 
 **Problem statement:**
 
-   AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are all the problem company is facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour, these people Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
+AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are all the problem company is facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour, these people Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
 
 **Solution:**
 
-   Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
+Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
+### AIMS Grid
+
+By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
+and success criteria  of our project.
+
+<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
+   
 **Steps Followed in this project:**
 
-1) Learned about AIMS grid for project planning.
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
-2) Used MySQL for retrieving the data from the database into Power BI.
-3) Data Cleaning in power query.
-4) Performed ETL process (Extract Transform and Load)
-5) Created measure for needs and used them for creating visuals in PowerBi.
-6) In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-7) Data Validation
-8) Data Modelling and Visualization.
+1) Used MySQL for retrieving the data from the database into Power BI.
+2) Data Cleaning in power query.
+3) Performed ETL process (Extract Transform and Load)
+4) Created measure for needs and used them for creating visuals in PowerBi.
+5) In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
+6) Data Validation
+7) Data Modelling and Visualization.
 
 
 *Major Changes/ Customizations Made:*
